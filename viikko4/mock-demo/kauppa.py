@@ -3,7 +3,7 @@ class Kauppa:
         self._pankki = pankki
         self._viitegeneraattori = viitegeneraattori
         self._yhteishinta = 0
-
+# muutos tähän
     def aloita_ostokset(self):
         self._yhteishinta = 0
 
